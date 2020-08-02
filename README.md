@@ -1,11 +1,15 @@
 # stock-analysis
 Module 2 - Wall St analysis to help Steve analyze stocks
 
+
+
 # **VBA Wall Street Analysis**
+
 
 ## **Assignment Purpose**
 
 The purpose of the assignment is to make VBA code that we had more efficient and run faster.
+
 
 ## **Process**
 We start with the existing code and reuse it, but make process a bit more efficient. We achieve that by modifying a few criterias:
@@ -22,14 +26,17 @@ Worksheets(yearValue).Activate
 Once we streamlined the process by enabling the macro to run for multiple years, we make sure any end user can request analysis for any requested/available year. We do that by enabling a pop=up box that allows to input the year we want to analyze.
 https://github.com/jojobear2020/stock-analysis/blob/master/Resources/VBA_Challenge_INPUT_Box_Pop-up.PNG
 
+
 ### ***3. Loops***
 To increase efficiency of the process, we use fewer loops to essentially get the same output as in original script. Once we 
+
 
 ### ***4. Formatting***
 We use conditional formatting to help any end user visualize the final output. 
 
 https://github.com/jojobear2020/stock-analysis/blob/master/Resources/VBA_Challenge_2017%20Output.PNG
 https://github.com/jojobear2020/stock-analysis/blob/master/Resources/VBA_Challenge_2018%20Output.PNG
+
 
 ### ***5. Macro Button***
 We allow any end user to run analysis by simply clicking on active macro button that already has the complete macro/vba script linked to it. It also allows to see how long it took to run the analysis.
