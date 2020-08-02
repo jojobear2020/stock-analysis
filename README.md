@@ -44,4 +44,4 @@ https://github.com/jojobear2020/stock-analysis/blob/master/Resources/Macro_Butto
 
 
 ## **Results**
-Even though we modified the script, we are able to see result as expected per assignment. Per given data, 2017 had better return vs 2018. If we had more than two years of data, we would probably have even a better understanding of the trends for all stocks' data. The main advantage of the modified script is that it allows us to analyze multiple years by using one script and even add more years of data, if needed. 
+Even though we modified the script, we are able to see result as expected per assignment. Per given data, 2017 had better return vs 2018. If we had more than two years of data, we would probably have even a better understanding of the trends for all stocks. The main advantage of the modified script is that it allows us to analyze multiple years by using one script and even add more years of data, if needed. 
