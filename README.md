@@ -5,10 +5,10 @@ Module 2 - Wall St analysis to help Steve analyze stocks
 
 ## **Assignment Purpose**
 
-The purpose of the assignment is to make VBA code we had more efficient and run faster.
+The purpose of the assignment is to make VBA code that we had more efficient and run faster.
 
 ## **Process**
-We start with the existing code and reuse it, but make process a bit more efficien. We achieve that by modifying a few criterias:
+We start with the existing code and reuse it, but make process a bit more efficient. We achieve that by modifying a few criterias:
 
 ### *** 1. Year***
 We automate the process by establishing year using function 'yearValue'. In this case we are able to run analysis for any year that has data in the existing workbook rather than run a script for each year:
