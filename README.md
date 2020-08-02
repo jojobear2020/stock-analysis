@@ -1,5 +1,5 @@
 # stock-analysis
-Module 2 - Wall St analysis to help Steve analyze stocks
+Module 2 - Wall St analysis to help Steve or any end user to analyze stocks based on the available data.
 
 
 
