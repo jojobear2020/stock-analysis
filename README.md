@@ -11,11 +11,12 @@ The purpose of the assignment is to make VBA code we had more efficient and run 
 We start with the existing code and reuse it, but make process a bit more efficien. We achieve that by modifying a few criterias:
 
 ### *** 1. Year***
-We automate the process by establishing year using function 'yearValue'. In this case we are able to run analysis for any year that has data in the existing workbook rather than run a script for each year.
-'''
+We automate the process by establishing year using function 'yearValue'. In this case we are able to run analysis for any year that has data in the existing workbook rather than run a script for each year:
+
+```
 Worksheets("All Stocks Analysis").Activate
 Range("A1").Value = "All Stocks (" + *yearValue* + ")"
-'''
+```
 
 ### *** 2. Input Box***
 Once we streamlined the process by enabling the macro to run for multiple years, we make sure any end user can request analysis for any requested/available year. We do that by enabling a pop=up box that allows to input the year we want to analyze.
